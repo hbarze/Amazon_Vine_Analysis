@@ -1,10 +1,10 @@
 # Amazon_Vine_Analysis
 Module 16 Challenge
 
-##Overview of the Analysis of the Vine Program: 
+## Overview of the Analysis of the Vine Program: 
 
-##Results:
+## Results:
 
-##Summary:
-###Was there bias in the paid vine reviews? 
-###Additional analysis recommendation: 
+## Summary:
+### Was there bias in the paid vine reviews? 
+### Additional analysis recommendation: 

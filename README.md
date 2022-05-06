@@ -48,3 +48,4 @@ Finally, the last step was creating another variable that found the percentage o
 Just based off the last two variables I created, the paid 5-star review percentage (51%) vs. the unpaid 5-star review percentage (0.12%) it is clear there is bias within the paid vine reviews. However, the sample size for the paid vine reviews was only 94, while the sample size for the unpaid reviews was 40,471. 
 
 ### Additional analysis recommendation: 
+To fully address the bias within the paid vine reviews, I would either seperate analyses similar to this one dealing with the video game reviews across the total 50 datasets provided for this module challenge, and then average the 5-star unpaid and paid review ratings to discover a better guage if the projects contain bias across all product review types, or only in certain categories. 
